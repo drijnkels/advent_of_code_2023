@@ -1,0 +1,14 @@
+{
+  "name": "aoc-2023",
+  "version": "1.0.0",
+  "description": "AoC Solutions",
+  "main": "/day1/puzzle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "D. Rijnkels",
+  "license": "ISC",
+  "dependencies": {
+    "supervisor": "^0.12.0"
+  }
+}
